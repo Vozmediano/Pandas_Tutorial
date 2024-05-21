@@ -17,17 +17,17 @@ Pandas tiene caracteristicas como:
 
 Las secciones en las que se divide este tutorial son:
 
-  •	Unidad 1: Descargar bases de datos e información básica de la base de datos.
-  •	Unidad 2: Dataframe y series.
-  •	Unidad 3: Indices (set, reset, etc.)
-  •	Unidad 4: Filtrar Dataframe y buscar datos que cumplan determinadas condiciones (and Y or).
-  •	Unidad 5: Cambiar datos en el Dataframe.
-  •	Unidad 6: Añadir y quitar filas y columnas del Dataframe – Combinar información.
-  •	Unidad 7: Clasificar datos.
-  •	Unidad 8: Agregar y agrupar datos.
-  •	Unidad 9: Limpieza de datos.
-  •	Unidad 10: Preprocesamiento de datos.
-  •	Unidad 11: Análisis de datos del Titanic.
+  - Unidad 1: Descargar bases de datos e información básica de la base de datos.
+  - Unidad 2: Dataframe y series.
+  - Unidad 3: Indices (set, reset, etc.)
+  - Unidad 4: Filtrar Dataframe y buscar datos que cumplan determinadas condiciones (and Y or).
+  - Unidad 5: Cambiar datos en el Dataframe.
+  - Unidad 6: Añadir y quitar filas y columnas del Dataframe – Combinar información.
+  - Unidad 7: Clasificar datos.
+  - Unidad 8: Agregar y agrupar datos.
+  - Unidad 9: Limpieza de datos.
+  - Unidad 10: Preprocesamiento de datos.
+  - Unidad 11: Análisis de datos del Titanic.
 
-Incluire la tabla del titanic para poder ejecutar los ejemplos del tutorial, esa tabla es la que se
-ha usado de ejemplo para ver las funcionalidades de Pandas.
+Incluyo data con la que se trabaja en el tutorial para poder cargarla y ejecutar pruebas
+y funciones de la libreria.
