@@ -29,5 +29,7 @@ Las secciones en las que se divide este tutorial son:
   - Unidad 10: Preprocesamiento de datos.
   - Unidad 11: Análisis de datos del Titanic.
 
-Incluyo data con la que se trabaja en el tutorial para poder cargarla y ejecutar pruebas
-y funciones de la libreria.
+Incluyo data con la que se trabaja en el tutorial para poder cargarla y ejecutar pruebas y funciones de la libreria.
+
+Espero que sirva de ayuda!!!
+Gracias :)
