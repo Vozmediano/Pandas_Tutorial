@@ -6,7 +6,8 @@
 ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 ![Badge DISFRUTALO](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=WHITE&logoSize=auto)
 ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social) # 
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+# 
 
 En este tutorial vamos a ver los fundamentos basicos de la libreria Pandas, es una librería 
 de Python especializada en el manejo y análisis de estructuras de datos.
