@@ -1,6 +1,5 @@
-# Tutorial_Pandas
 
-![pandas-logo](https://github.com/Vozmediano/Tutorial_Pandas/assets/140751734/82f99b96-5d2d-4b89-bb61-48d6a846feb6)
+![pandas](https://github.com/user-attachments/assets/26db8512-2fe7-4bfd-a4b2-02ddb9a63efa)
 
 
 # ![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue) ![Badge LENGUAJE](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=white&logoSize=auto) ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green) ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2) ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
