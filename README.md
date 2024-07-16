@@ -3,12 +3,7 @@
 ![pandas-logo](https://github.com/Vozmediano/Tutorial_Pandas/assets/140751734/82f99b96-5d2d-4b89-bb61-48d6a846feb6)
 
 
-![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue)
-![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green)
-![Badge DISFRUTALO](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=WHITE&logoSize=auto)
-![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-# 
+# ![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue) ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green) ![Badge DISFRUTALO](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=WHITE&logoSize=auto) ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2) ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 En este tutorial vamos a ver los fundamentos basicos de la libreria Pandas, es una librería 
 de Python especializada en el manejo y análisis de estructuras de datos.
